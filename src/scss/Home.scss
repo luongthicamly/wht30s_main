@@ -1313,6 +1313,9 @@
                 }
             }
         }
+        .new-object{
+            display: none;
+        }
     }
 }
 @media screen and (max-width: 575px) {
@@ -1352,6 +1355,9 @@
                     font-size:15px;
                 }
             }
+        }
+        .new-object{
+            display: none;
         }
     }
 }
